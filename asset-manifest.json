@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/rss-feed/static/js/main.2bc5cf5b.js",
+    "index.html": "/rss-feed/index.html",
+    "main.2bc5cf5b.js.map": "/rss-feed/static/js/main.2bc5cf5b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2bc5cf5b.js"
+  ]
+}
